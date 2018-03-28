@@ -29,7 +29,6 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=project-rescue
 LibName2=power
 LibName3=device
 LibName4=transistors
@@ -59,5 +58,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=stm32_theapi
 LibName32=switches
