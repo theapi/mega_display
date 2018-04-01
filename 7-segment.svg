@@ -12,9 +12,9 @@
    sodipodi:docname="7-segment.svg"
    id="svg72"
    version="1.1"
-   viewBox="-1 -1 19.488113 35.433071"
-   height="566.92914"
-   width="311.80981">
+   viewBox="-1 -1 15.920613 28.346456"
+   height="453.5433"
+   width="254.72981">
   <metadata
      id="metadata78">
     <rdf:RDF>
@@ -29,17 +29,17 @@
   <defs
      id="defs76" />
   <sodipodi:namedview
-     inkscape:measure-end="-129.568,411.901"
-     inkscape:measure-start="-99.0146,467.349"
+     inkscape:measure-end="64.3467,485.075"
+     inkscape:measure-start="64.3467,491.439"
      inkscape:guide-bbox="true"
      showguides="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:window-maximized="0"
      inkscape:window-y="217"
      inkscape:window-x="494"
-     inkscape:cy="400.29127"
-     inkscape:cx="140.20503"
-     inkscape:zoom="1.688787"
+     inkscape:cy="226.77165"
+     inkscape:cx="127.36491"
+     inkscape:zoom="2.2092708"
      showgrid="false"
      id="namedview74"
      inkscape:window-height="851"
@@ -53,59 +53,49 @@
      bordercolor="#666666"
      pagecolor="#ffffff">
     <sodipodi:guide
-       position="0.2607973,32.002923"
+       position="0.39075396,3.1643409"
        orientation="1,0"
        id="guide977"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="16.872259,17.495521"
+       position="3.1911571,15.530553"
        orientation="0,1"
        id="guide979"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="9.7726069,16.040049"
-       orientation="1,0"
-       id="guide981"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="15.722983,19.192913"
-       orientation="0,1"
-       id="guide983"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="17.610448,0.042044807"
+       position="4.1718728,0.39075428"
        orientation="0,1"
        id="guide985"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4.4291338,0.2652176"
-       orientation="0,1"
-       id="guide987"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="12.447546,34.725824"
+       position="12.669459,34.950382"
        orientation="0,1"
        id="guide989"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="15.784867,15.793708"
+       position="3.968834,12.818261"
        orientation="0,1"
        id="guide991"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="19.192913,31.255894"
+       position="15.530553,2.7276159"
        orientation="1,0"
        id="guide1026"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.9260456,27.95806"
+       orientation="0,1"
+       id="guide46"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="segments"
-     transform="translate(-1.315217,17.556695)"
+     transform="translate(-1.0933043,10.245523)"
      sodipodi:insensitive="true">
     <g
-       transform="matrix(1.9415381,0,0,1.9415381,0.33599655,-18.089447)"
+       transform="matrix(1.5532305,0,0,1.5532305,0.28745808,-11.051369)"
        id="abcdefg"
        style="fill-rule:evenodd;stroke:#ffffff;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
       <polygon
@@ -143,90 +133,89 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="boxes"
-     transform="translate(-1.315217,17.556695)"
+     transform="translate(-1.0933043,10.245523)"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.50813,1.0826681 0.57601431,-17.849448"
-       id="path1028"
+       d="M 0.48405827,-10.857127 15.623857,4.282672"
+       id="path58"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.50813,-17.849448 0.57601431,1.0826681"
-       id="path1030"
+       d="M 15.623857,-10.857127 0.48405827,4.282672"
+       id="path60"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.50813,-2.3165369 0.57601431,16.611159"
-       id="path1032"
+       d="M 0.48405827,1.5703801 15.623857,16.71018"
+       id="path62"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.0625px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.57601431,-2.3165369 19.50813,16.611159"
-       id="path1034"
+       d="M 15.623857,1.5703801 0.48405827,16.71018"
+       id="path64"
        inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="leds"
-     transform="translate(-1.315217,17.556695)"
-     sodipodi:insensitive="true">
+     transform="translate(-1.0933043,10.245523)">
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036"
        width="1.1811024"
        height="1.1811024"
-       x="9.5023546"
-       y="-6.4981346" />
+       x="7.4321694"
+       y="-1.2880821" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-9"
        width="1.1811024"
        height="1.1811024"
-       x="9.5023546"
-       y="-11.50898" />
+       x="7.4321694"
+       y="-6.2989278" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-1"
        width="1.1811024"
        height="1.1811024"
-       x="11.838733"
-       y="-8.9275284" />
+       x="9.768549"
+       y="-3.7174757" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-2"
        width="1.1811024"
        height="1.1811024"
-       x="7.0598888"
-       y="-8.9275284" />
+       x="4.9897041"
+       y="-3.7174757" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-6"
        width="1.1811024"
        height="1.1811024"
-       x="9.4669933"
-       y="9.1373272" />
+       x="7.5975037"
+       y="11.405232" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-9-0"
        width="1.1811024"
        height="1.1811024"
-       x="9.4669933"
-       y="4.1264811" />
+       x="7.5975037"
+       y="6.3943863" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-1-6"
        width="1.1811024"
        height="1.1811024"
-       x="11.803371"
-       y="6.7079329" />
+       x="9.9338827"
+       y="8.9758387" />
     <rect
        style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1036-2-2"
        width="1.1811024"
        height="1.1811024"
-       x="7.0245261"
-       y="6.7079329" />
+       x="5.1550369"
+       y="8.9758387" />
   </g>
 </svg>
